@@ -537,7 +537,7 @@
     },
     {"element": "90",
         "name": "Thorium",
-        "lick": "You known... one lick should be fine.",
+        "lick": "You know... one lick should be fine.",
         "l": "r",
         "description": "Thorium is weakly radioactive. I would say that one lick should be fine. What is the worst that could happen...?"
     },
@@ -600,5 +600,107 @@
         "lick": "No one knows...",
         "l": "r",
         "description": "Fermium has never been made in a pure metal. It was discovered in the fallout of the Mike Ivy nuclear test. So because no one has ever made it in the pure form, so no one knows if you can lick it. However, considering it is radioactive, I would ASSUME it isn't okay to lick."
+    },
+    {"element": "101",
+        "name": "Mendelevium",
+        "lick": "Good luck trying to.",
+        "l": "r",
+        "description": "Mendelevium can't be seen by the naked eye, so you would have some trouble trying to lick it. If you did manage to lick it, it's radioactive."
+    },
+    {"element": "102",
+        "name": "Nobelium",
+        "lick": "Nope...",
+        "l": "r",
+        "description": "Named after the man who made dynamite, this is radioactive and shouldn't be licked."
+    },
+    {"element": "103",
+        "name": "Lawrencium",
+        "lick": "Shouldn't lick it.",
+        "l": "r",
+        "description": "Lawrencium is named after the man who made the cyclotron, which has been used to discover many elements. This is radioactive, so licking it isn't advised."
+    },
+    {"element": "104",
+        "name": "Rutherfordium",
+        "lick": "What a great name for an element. It can't be licked.",
+        "l": "r",
+        "description": "Rutherfordium is a great name for an element. It is radioactive and can't be licked."
+    },
+    {"element": "105",
+        "name": "Dubnium",
+        "lick": "Nope. Don't.",
+        "l": "r",
+        "description": "Dubnium is super radioactive, only lasting 16 hours. Licking it wouldn't end well. It would probably feel funny."
+    },
+    {"element": "107",
+        "name": "Seaborgium",
+        "lick": "Can I talk to you for a minute?",
+        "l": "r",
+        "description": "It can't be licked. Can I just say, thank you for being here today. This is a fun little website that I have dedicated many hours to. The fact that you are reading this means that you are looking into even the small elements, like Seaborgium. Thank you. (Miles K, 11/21/2026)"
+    },
+    {"element": "108",
+        "name": "Bohrium",
+        "lick": "This thing doesn't last for 3 minutes",
+        "l": "r",
+        "description": "Bohrium is super radioactive, with a half-life of less than 3 minutes. Licking it wouldn't be good."
+    },
+    {"element": "109",
+        "name": "Meitnerium",
+        "lick": "We don't know... yet.",
+        "l": "u",
+        "description": "These final few elements have unknown properties. So I guess we don't know? But, it is radioactive, so it probably wouldn't end well."
+    },
+    {"element": "110",
+        "name": "Darmstadtium",
+        "lick": "It's radioactive. What's new?",
+        "l": "u",
+        "description": "The properties of this element is unknown, but it is radioactive, so maybe best not to lick."
+    },
+    {"element": "111",
+        "name": "Roentgenium",
+        "lick": "It's radioactive. Don't lick it.",
+        "l": "u",
+        "description": "While the properties are unknown, this is radioactive. It has no practical use, doesn't last for very long, and is just... boring?"
+    },
+    {"element": "112",
+        "name": "Copernicium",
+        "lick": "It is radioactive.",
+        "l": "u",
+        "description": "We don't known the properties of this element, but I would assume because it is radioactive you shouldn't lick it."
+    },
+    {"element": "113",
+        "name": "Nihornium",
+        "lick": "Please don't lick this.",
+        "l": "u",
+        "description": "While the properties of this element are unknown, it is very radioactive, so I wouldn't lick it."
+    },
+    {"element": "114",
+        "name": "Flerovium",
+        "lick": "Just... don't.",
+        "l": "u",
+        "description": "This is one of the elements whose properties are unknown. We know it is radioactive, so I wouldn't lick it."
+    },
+    {"element": "115",
+        "name": "Moscovium",
+        "lick": "How about you don't.",
+        "l": "u",
+        "description": "The properties of this element are unknown. It is radioactive though, so I wouldn't."
+    },
+    {"element": "116",
+        "name": "Livermorium",
+        "lick": "Don't lick this.",
+        "l": "u",
+        "description": "This element has unknown properties. It also is super radioactive. Don't lick."
+    },
+    {"element": "117",
+        "name": "Tennessine",
+        "lick": "NOT to be confused with Tennessee",
+        "l": "u",
+        "description": "This element is unknown, so I wouldn't lick it."
+    },
+    {"element": "118",
+        "name": "Oganesson",
+        "lick": "Don't lick it! It is super radioactive!",
+        "l": "u",
+        "description": "This element is very radioactive, and also has a lot of unknown properties. Licking it wouldn't end well. You have been warned."
     }
 ]
