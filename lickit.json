@@ -1,703 +1,819 @@
-
 [
-    {"element": "",
+    {
+        "element": "",
         "name": "",
         "lick": "",
         "l": "",
         "description": ""
     },
-    {"element": "1",
+    {
+        "element": "1",
         "name": "Hydrogen",
         "lick": "Yes, ish",
         "l": "y",
-        "description": "Hydrogen's main state at any resonable temperature is gaseous. It only becomes a liquid at -240.21°C. If you lick it at that temperature, not only will you be the first person to lick Hydrogen, you will also freeze your tounge off. However, everything else would be A-OK.  "
+        "description": "Hydrogen's main state at any reasonable temperature is gaseous. It only becomes a liquid at -240.21°C. If you lick it at that temperature, not only will you be the first person to lick Hydrogen, you will also freeze your tongue off. However, everything else would be A-OK.  "
     },
-    {"element": "2",
+    {
+        "element": "2",
         "name": "Helium",
         "lick": "Yes, kinda.",
         "l": "y",
-        "description": "Helium is a gas. You can't lick it at any temperature above -270°C, where it then becomes a solid. But at that point you freeze your tounge off. Congrats. Your voice would be a little squeaky though."
+        "description": "Helium is a gas. You can't lick it at any temperature above -270°C, where it then becomes a solid. But at that point you freeze your tongue off. Congrats. Your voice would be a little squeaky though."
     },
-    {"element": "3",
+    {
+        "element": "3",
         "name": "Lithium",
         "lick": "Nope.",
         "l": "n",
-        "description": "Lithium is that acid stuff in coin batteries. Licking it would cause a burn on your tounge, wouldn't taste good, and is bad for your insides if it makes it all the way down."
+        "description": "Lithium is that acid stuff in coin batteries. Licking it would cause a burn on your tongue, wouldn't taste good, and is bad for your insides if it makes it all the way down."
     },
-    {"element": "4",
+    {
+        "element": "4",
         "name": "Beryllium",
         "lick": "Please don't.",
         "l": "n",
-        "description": "Beryllium isn't your friend. Inhaling it (which you probably would do if you were to lick it) can lead to many bad things, even Lung Cancer. It also would burn your tounge. Other than that you are good to go!"
+        "description": "Beryllium isn't your friend. Inhaling it (which you probably would do if you were to lick it) can lead to many bad things, even Lung Cancer. It also would burn your tongue. Other than that you are good to go!"
     },
-    {"element": "5",
+    {
+        "element": "5",
         "name": "Boron",
         "lick": "Yeah, just don't lick too much.",
         "l": "y",
         "description": "Boron is one of those things that one lick won't hurt, but a lot of licks can cause kidney failure and similar stuff. However, one lick won't really hurt you."
     },
-    {"element": "6",
+    {
+        "element": "6",
         "name": "Carbon",
         "lick": "Yep.",
         "l": "y",
         "description": "Carbon is 100% safe to lick. (Ever lick the tip of your pencil?)"
     },
-    {"element": "7",
+    {
+        "element": "7",
         "name": "Nitrogen",
         "lick": "Yes, ish.",
         "l": "n",
-        "description": "Nitrogen is a gas, so you can't technically lick it unless it is really, really cold (at which point you would freeze your tounge off) but other than the missing tounge you would be fine."
+        "description": "Nitrogen is a gas, so you can't technically lick it unless it is really, really cold (at which point you would freeze your tongue off) but other than the missing tongue you would be fine."
     },
-    {"element": "8",
+    {
+        "element": "8",
         "name": "Oxygen",
-        "lick": "Definatly",
+        "lick": "definitely",
         "l": "y",
         "description": "Oxygen is super, duper common. Without it we would die. However, it is a gas, so good luck \"licking\" it."
     },
-    {"element": "9",
+    {
+        "element": "9",
         "name": "Fluorine",
         "lick": "Nada.",
         "l": "n",
         "description": "Fluorine is highly reactive and will burn you badly. Its also a gas, so you would probably inhale it when trying to lick it, which is really bad."
     },
-    {"element": "10",
+    {
+        "element": "10",
         "name": "Neon",
         "lick": "Sure.",
         "l": "y",
         "description": "It's a gas, so you would have to figure out how to lick a gas, but once you figure that out, you will learn it is harmless."
     },
-    {"element": "11",
+    {
+        "element": "11",
         "name": "Sodium",
         "lick": "NO.",
         "l": "d",
-        "description": "When sodium touches water, it can fizz, burst into flames, and explode. Not good. Just look up \"Sodium + Water\" on YouTube. Now imagine that happening on your TOUNGE..."
+        "description": "When sodium touches water, it can fizz, burst into flames, and explode. Not good. Just look up \"Sodium + Water\" on YouTube. Now imagine that happening on your tongue..."
     },
-    {"element": "12",
+    {
+        "element": "12",
         "name": "Magnesium",
         "lick": "Yeah. Go ahead.",
         "l": "y",
         "description": "Magnesium is perfectly fine to lick. Some people actually take magnesium pills."
     },
-    {"element": "13",
-        "name": "Aluminium",
+    {
+        "element": "13",
+        "name": "Aluminum",
         "lick": "Ever drink soda? (Yes)",
         "l": "y",
-        "description": "Aluminium is super common. From foil to soda cans. If you have ever had a Pepsi or similar, you probably already have licked it!"
+        "description": "Aluminum is super common. From foil to soda cans. If you have ever had a Pepsi or similar, you probably already have licked it!"
     },
-    {"element": "14",
+    {
+        "element": "14",
         "name": "Silicon",
         "lick": "Yes.",
         "l": "y",
         "description": "Small amounts of it is fine, which is what you would get if you were to lick it."
     },
-    {"element": "15",
+    {
+        "element": "15",
         "name": "Phosphorus",
         "lick": "No. PLEASE DON'T.",
         "l": "d",
-        "description": "Phosphorus isn't your friend. When exposed to air, it catches fire. It also is poisonus, so if you were to get it into your mouth without it blowing up, you would still die."
+        "description": "Phosphorus isn't your friend. When exposed to air, it catches fire. It also is poisonous, so if you were to get it into your mouth without it blowing up, you would still die."
     },
-    {"element": "16",
+    {
+        "element": "16",
         "name": "Sulfur",
         "lick": "Yep.",
         "l": "y",
         "description": "It isn't bad for you, it isn't good for you either. So yes, you can lick it and not be harmed, but WHY?"
     },
-    {"element": "17",
+    {
+        "element": "17",
         "name": "Chlorine",
         "lick": "Probably wouldn't feel great.",
         "l": "n",
-        "description": "If you have ever been in a swimming pool, you have probably taken in some chlorine, however, raw chlorine would probably hurt your tounge."
+        "description": "If you have ever been in a swimming pool, you have probably taken in some chlorine, however, raw chlorine would probably hurt your tongue."
     },
-    {"element": "18",
+    {
+        "element": "18",
         "name": "Argon",
         "lick": "Yeah.",
         "l": "y",
         "description": "Argon is a gas, so you can't get a solid state of it easily, but if somehow you could lick a gas, it would be fine."
     },
-    {"element": "19",
+    {
+        "element": "19",
         "name": "Potassium",
         "lick": "Nope.",
         "l": "d",
-        "description": "Potassium reacts very viloently when it comes into contact with water. Since your mouth has water in it, potassium would react viloently with your MOUTH. That wouldn't be good."
+        "description": "Potassium reacts very violently when it comes into contact with water. Since your mouth has water in it, potassium would react violently with your MOUTH. That wouldn't be good."
     },
-    {"element": "20",
+    {
+        "element": "20",
         "name": "Calcium",
-        "lick": "Nahhh",
+        "lick": "nash",
         "l": "n",
-        "description": "Calcium + the Air = bad stuff. Calcium + your tounge = really bad stuff."
+        "description": "Calcium + the Air = bad stuff. Calcium + your tongue = really bad stuff."
     },
-    {"element": "21",
+    {
+        "element": "21",
         "name": "Scandium",
         "lick": "I guess so.",
         "l": "y",
         "description": "Scandium is one of those rare things. You could lick it and come away from it fine, but good luck finding it."
     },
-    {"element": "22",
+    {
+        "element": "22",
         "name": "Titanium",
         "lick": "Be my guest!",
         "l": "y",
         "description": "Titanium is a metal, like steel! It wouldn't hurt a fly (probably)."
     },
-    {"element": "23",
+    {
+        "element": "23",
         "name": "Vanadium",
         "lick": "One lick won't hurt.",
         "l": "y",
         "description": "Vanadium is in various foods, but in REALLY small amounts. So one lick will be fine."
     },
-    {"element": "24",
+    {
+        "element": "24",
         "name": "Chromium",
         "lick": "Yes, depending on the form",
         "l": "y",
         "description": "Chromium comes in various forms. For example, Chromium-6 is bad for you, but Chromium-3 is fine in small amounts. So just make sure you know what you are licking."
     },
-    {"element": "25",
+    {
+        "element": "25",
         "name": "Manganese",
         "lick": "Better safe than sorry...",
         "l": "d",
         "description": "In small amounts, it is fine (like in really small amounts). But too much can lead to Parkinson's Disease-Like systems. (BADDDD)."
     },
-    {"element": "26",
+    {
+        "element": "26",
         "name": "Iron",
         "lick": "All Day, Every Day",
         "l": "y",
         "description": "Iron is fine to lick. Need I say more?"
     },
-    {"element": "27",
+    {
+        "element": "27",
         "name": "Cobalt",
         "lick": "Should be okay.",
         "l": "y",
         "description": "Cobalt is fine in small amounts, but it you have too much, it can lead to bad stuff."
     },
-    {"element": "28",
+    {
+        "element": "28",
         "name": "Nickel",
         "lick": "Go ahead.",
         "l": "y",
         "description": "Nickel is fine to lick a few times."
     },
-    {"element": "29", 
+    {
+        "element": "29",
         "_COMMENT": "Make a small note in UI saying they can't sue (as a joke of course)",
         "name": "Copper",
         "lick": "DO IT.",
         "l": "y",
         "description": "Copper is totally okay to lick. I dare you to do it. "
     },
-    {"element": "30",
+    {
+        "element": "30",
         "name": "Zinc",
         "lick": "You would be fine!",
         "l": "y",
         "description": "People often take some zinc supplements, and they are fine (i think) so licking it can't hurt."
     },
-    {"element": "31",
+    {
+        "element": "31",
         "name": "Gallium",
         "lick": "Should be fine.",
         "l": "y",
         "description": "Gallium is just another boring metal. Fun fact: it has a really low melting point! Who knew!"
     },
-    {"element": "32",
+    {
+        "element": "32",
         "name": "Germanium",
         "lick": "You can lick it.",
         "l": "y",
         "description": "Germainium is totally fine to lick. It is like silicon."
     },
-    {"element": "33",
+    {
+        "element": "33",
         "name": "Arsenic",
         "lick": "No. Stop. Don't.",
         "l": "d",
         "description": "Arsenic is poison. Please don't attempt to lick it. It won't end very well."
     },
-    {"element": "34",
+    {
+        "element": "34",
         "name": "Selenium",
         "lick": "Yes. Just be careful.",
         "l": "y",
         "description": "One lick won't hurt. However, if you have 900-1000 micrograms per day, you can lose your hair and nails..."
     },
-    {"element": "35",
+    {
+        "element": "35",
         "name": "Bromine",
         "lick": "Not the brightest idea.",
         "l": "n",
         "description": "Bromine, a liquid at room temperature, can cause irritation to the skin, vomiting, and more. If exposed, The CDC recommends you take off your clothes. Their words, not mine."
     },
-    {"element": "36",
+    {
+        "element": "36",
         "name": "Krypton",
         "lick": "Yes if you can find it!",
         "l": "y",
         "description": "(not to be confused with Kryptonite) Krypton is a super rare gas found in the atmosphere, lightning, and other small things. It is non-toxic and won't hurt you if you somehow lick it."
     },
-    {"element": "37",
+    {
+        "element": "37",
         "name": "Rubidium",
         "lick": "The doctor says no.",
         "l": "n",
-        "description": "Rubidium reacts harshly with water and air, so by the time it got to your tounge it would be on fire, and from there your day would go downhill."
+        "description": "Rubidium reacts harshly with water and air, so by the time it got to your tongue it would be on fire, and from there your day would go downhill."
     },
-    {"element": "38",
+    {
+        "element": "38",
         "name": "Strontium",
         "lick": "Yeah it will be fine.",
         "l": "y",
         "description": "Strontium can be found in a variety of things, including some toothpaste! So there is a chance you have already licked it!"
     },
-    {"element": "39",
+    {
+        "element": "39",
         "name": "Yttrium",
         "lick": "Sure.",
         "l": "y",
         "description": "Yttrium is rare and is found in LEDs and some cancer medicine! A lick should be okay."
     },
-    {"element": "40",
+    {
+        "element": "40",
         "name": "Zirconium",
         "lick": "Won't hurt (probably).",
         "l": "y",
         "description": "Zirconium is a rare metal that is fine to lick. Nothing else to say."
     },
-    {"element": "41",
+    {
+        "element": "41",
         "name": "Niobium",
         "lick": "Yeah.",
         "l": "y",
         "description": "Niobium is really strong and can take a lot of heat. You can lick it. It is actually used in jewelry."
     },
-    {"element": "42",
+    {
+        "element": "42",
         "name": "Molybdenum",
         "lick": "Totally.",
         "l": "y",
         "description": "Molybdenum is fine to lick. Need I say more?"
     },
-    {"element": "43",
+    {
+        "element": "43",
         "name": "Technetium",
         "lick": "yeah... NO!!!",
         "l": "r",
         "description": "Technetium is radioactive. It really isn't smart to lick anything radioactive. (see: the radium girls)"
     },
-    {"element": "44",
+    {
+        "element": "44",
         "name": "Ruthenium",
         "lick": "Uh-Huh",
         "l": "y",
         "description": "This is one of the rarest stable metals in the Earth's Crust, so you would have trouble finding some to lick, but once you found some, you would find that it is fine to lick, and that it costs $1,675 USD per ounce."
     },
-    {"element": "45",
+    {
+        "element": "45",
         "name": "Rhodium",
         "lick": "Mhm. (yes)",
         "l": "y",
         "description": "Rhodium is very reflective and used in a variety of things, among which are catalytic converters! It is fine to lick."
     },
-    {"element": "46",
+    {
+        "element": "46",
         "name": "Palladium",
         "lick": "Ya.",
         "l": "y",
         "description": "Palladium is used in things like crowns and parts of dentures. If you have that, you might have be licking palladium right now..."
     },
-    {"element": "47",
+    {
+        "element": "47",
         "name": "Silver",
         "lick": "Without a doubt yes.",
         "l": "y",
         "description": "Silver is used in a lot. There is a good chance something in your home is made out of it. You should lick it."
     },
-    {"element": "48",
+    {
+        "element": "48",
         "name": "Cadmium",
         "lick": "I wouldn't lick this if I were you...",
         "l": "n",
         "description": "Cadmium is very toxic. It can lead to bad things. While one lick might not kill you, it won't feel great."
     },
-    {"element": "49",
+    {
+        "element": "49",
         "name": "Indium",
-        "lick": "It is okay to lick, but just don't swollow.",
+        "lick": "It is okay to lick, but just don't swallow.",
         "l": "y",
-        "description": "Indium is okay to lick, but if you swollow, it could damage some pretty important stuff that you definatly don't want to happen to you."
+        "description": "Indium is okay to lick, but if you swallow, it could damage some pretty important stuff that you definitely don't want to happen to you."
     },
-    {"element": "50",
+    {
+        "element": "50",
         "name": "Tin",
         "lick": "Yes, yes, and yes.",
         "l": "y",
         "description": "Ever hear of a tin can? Tin is totally fine to lick. In fact, you should lick it, if you have some tin."
     },
-    {"element": "51",
+    {
+        "element": "51",
         "name": "Antimony",
         "lick": "Best not to.",
         "l": "n",
-        "description": "Antimony, formerly Stibium, is used in various things including childrens clothing. However, raw Antimony is toxic and can cause respitory damage."
+        "description": "Antimony, formerly Stibium, is used in various things including childrens clothing. However, raw Antimony is toxic and can cause respiratory damage."
     },
-    {"element": "52",
+    {
+        "element": "52",
         "name": "Tellurium",
         "lick": "Only if you like garlic.",
         "l": "n",
         "description": "Tellurium is weird. If you lick it, it can lead to your breath, sweat, and urine smelling like garlic. (weird.)"
     },
-    {"element": "53",
+    {
+        "element": "53",
         "name": "Iodine",
         "lick": "DON'T.",
         "l": "d",
-        "description": "Iodine is very toxic. 2-3 grams of raw iodine is enough to kill you. While one lick won't get you that much. You definatly won't be feeling good."
+        "description": "Iodine is very toxic. 2-3 grams of raw iodine is enough to kill you. While one lick won't get you that much. You definitely won't be feeling good."
     },
-    {"element": "54",
+    {
+        "element": "54",
         "name": "Xenon",
         "lick": "Should be fine.",
         "l": "y",
         "description": "Xenon is a gas, so licking it is impossible unless it is super cold, but if somehow you licked it, you would be fine."
     },
-    {"element": "55",
+    {
+        "element": "55",
         "name": "Caesium",
         "lick": "don't lick it.",
         "l": "n",
         "description": "Caesium is super soft and melts like wax. However... when it comes into contact with water, it explodes. Highly advised not to lick it."
     },
-    {"element": "56",
+    {
+        "element": "56",
         "name": "Barium",
         "lick": "Wouldn't go so well.",
         "l": "n",
         "description": "Barium poisoning is a real thing. Licking it could cause nerve, heart, or kidney damage. No bueno."
     },
-    {"element": "57",
+    {
+        "element": "57",
         "name": "Lanthanum",
         "lick": "One lick should be ok.",
         "l": "y",
         "description": "Lanthanum is rare, and is kind of boring. Lick it."
     },
-    {"element": "58",
+    {
+        "element": "58",
         "name": "Cerium",
         "lick": "Highly reactive. Probably shouldn't touch.",
         "l": "n",
         "description": "Cerium can ignite when scratched. So I guess in theory you could lick it, just make sure it doesn't come into contact with your teeth."
     },
-    {"element": "59",
+    {
+        "element": "59",
         "name": "Praseodymium",
         "lick": "One lick will be fine.",
         "l": "y",
         "description": "Praseodymium reacts quickly with water, but if you lick it really quickly you should be okay."
     },
-    {"element": "60",
+    {
+        "element": "60",
         "name": "Neodymium",
         "lick": "Sí. (yes)",
         "l": "y",
-        "description": "Neodymium is fine to lick. It is used in magents and some other stuff."
+        "description": "Neodymium is fine to lick. It is used in magnets and some other stuff."
     },
-    {"element": "61",
+    {
+        "element": "61",
         "name": "Promethium",
         "lick": "No! It is radioactive!",
         "l": "r",
         "description": "This is very, very rare, with less than 600 grams in the Earth's crust. It is also radioactive, so licking it wouldn't be good."
     },
-    {"element": "62",
+    {
+        "element": "62",
         "name": "Samarium",
         "lick": "Yeah sure.",
         "l": "y",
         "description": "This is a pretty typical metal. When combined with other elements, however, it can be used to do interesting things such as radioactive dating. Who knew!"
     },
-    {"element": "63",
+    {
+        "element": "63",
         "name": "Europium",
         "lick": "It should be fine.",
         "l": "y",
         "description": "Europium is quite soft and tarnishes quickly in air. One lick should be fine, but looking at the picture, it doesn't look like it would taste good."
     },
-    {"element": "64",
+    {
+        "element": "64",
         "name": "Gadolinium",
         "lick": "Lick it.",
         "l": "y",
         "description": "Another boring, standard, metal. To be totally honest I am just a little over halfway through and am thinking if this is worth it..."
     },
-    {"element": "65",
+    {
+        "element": "65",
         "name": "Terbium",
         "lick": "The scientists don't know, so it should be fine.",
         "l": "y",
         "description": "The toxicity hasn't been really tested, but it is considered fine. As a fun fact Terbium is used in naval sonar systems."
     },
-    {"element": "66",
+    {
+        "element": "66",
         "name": "Dysprosium",
         "lick": "Yes.",
         "l": "y",
         "description": "Dysprosium is a boring metal. Licking it should be okay."
     },
-    {"element": "67",
+    {
+        "element": "67",
         "name": "Holmium",
         "lick": "Kinda reactive. Shouldn't lick.",
         "l": "n",
-        "description": "Holmium reacts pretty badly with water, which is on your tounge, so you might not want to lick it."
+        "description": "Holmium reacts pretty badly with water, which is on your tongue, so you might not want to lick it."
     },
-    {"element": "68",
+    {
+        "element": "68",
         "name": "Erbium",
         "lick": "Yeah... you can lick it.",
         "l": "y",
         "description": "Yet another boring metal from the Lanthanides group. Yippee."
     },
-    {"element": "69",
+    {
+        "element": "69",
         "name": "Thulium",
         "lick": "Tis fine to lick-ith.",
         "l": "y",
         "description": "Thulium is pretty boring. However, it is a metal that can be cut with a knife, which is pretty cool I guess!"
     },
-    {"element": "70",
+    {
+        "element": "70",
         "name": "Ytterbium",
         "lick": "I wouldn't.",
         "l": "n",
         "description": "Ytterbium self-ignites in air when in a powder form, and is also stored in airtight containers when not in use. I wouldn't lick this."
     },
-    {"element": "71",
+    {
+        "element": "71",
         "name": "Lutetium",
-        "lick": "Boring = Lickable",
+        "lick": "Boring = likable",
         "l": "y",
         "description": "Lutetium is a boring metal. Totally lickable."
     },
-    {"element": "72",
+    {
+        "element": "72",
         "name": "Hafnium",
         "lick": "Soo... you gotta be careful.",
         "l": "n",
         "description": "Hafnium is what is known as a \"pyrophoric\" element which means that fine particles combust when it is exposed to air. Now, if you lick it juuuusst right you should be fine, but just make sure you don't make any particles."
     },
-    {"element": "73",
+    {
+        "element": "73",
         "name": "Tantalum",
         "lick": "No. Not at all.",
         "l": "d",
-        "description": "Tantalum bonds very quickly with human tissue. Your tounge is human tissue. In addition, OSHA actually posted a legal limit of how much you can inhale of this, and it is a small number, so be careful."
+        "description": "Tantalum bonds very quickly with human tissue. Your tongue is human tissue. In addition, OSHA actually posted a legal limit of how much you can inhale of this, and it is a small number, so be careful."
     },
-    {"element": "74",
+    {
+        "element": "74",
         "name": "Tungsten",
         "lick": "It is totally fine.",
         "l": "y",
         "description": "Tungsten is a very strong and pretty common metal. You can even get weddings bands made out of it!"
     },
-    {"element": "75",
+    {
+        "element": "75",
         "name": "Osmium",
         "lick": "Go ahead. It is fine.",
         "l": "y",
-        "description": "Osmium is similar to platinum and is totally harmless in it's pure form. Also, fun fact, this is the densest naturally occuring metal!"
+        "description": "Osmium is similar to platinum and is totally harmless in it's pure form. Also, fun fact, this is the densest naturally occurring metal!"
     },
-    {"element": "77",
+    {
+        "element": "77",
         "name": "Iridium",
         "lick": "It be fine.",
         "l": "y",
         "description": "It is totally fine to lick. That is really all that needs to be said."
     },
-    {"element": "78",
+    {
+        "element": "78",
         "name": "Platinum",
-        "lick": "Absolutly you can.",
+        "lick": "absolutely you can.",
         "l": "y",
         "description": "Platinum is a very common metal known for its strength. You can find it in all kinds of stuff!"
     },
-    {"element": "79",
+    {
+        "element": "79",
         "name": "Gold",
         "lick": "Duh... yes.",
         "l": "y",
-        "description": "Gold is rare yet common metal. It is definatly safe to lick, as you see everyone bite their gold metal in the Olympics."
+        "description": "Gold is rare yet common metal. It is definitely safe to lick, as you see everyone bite their gold metal in the Olympics."
     },
-    {"element": "80",
+    {
+        "element": "80",
         "name": "Mercury",
         "lick": "No. Just no.",
         "l": "d",
         "description": "Mercury is the only metal ever to be a liquid at room temperature. While eating it SHOULD be fine, if even small amounts of it get caught, it can be really bad. Inhaling it can be even worse. Don't lick."
     },
-    {"element": "81",
+    {
+        "element": "81",
         "name": "Thallium",
         "lick": "Licking this would make your day very bad.",
         "l": "d",
-        "description": "Thallium is very toxic and fatal if inhaled. People have actually died from exposure to it. Licking it is definatly not advized."
+        "description": "Thallium is very toxic and fatal if inhaled. People have actually died from exposure to it. Licking it is definitely not advised."
     },
-    {"element": "82",
+    {
+        "element": "82",
         "name": "Lead",
         "lick": "Please do not, under any circumstance, lick this element.",
         "l": "d",
         "description": "Lead is really bad for you. It is a neurotoxin, meaning that it affects the brain. A 2009 study said that even small amounts may cause \"adverse mental health outcomes.\" Licking it would be very bad."
     },
-    {"element": "83",
+    {
+        "element": "83",
         "name": "Bismuth",
         "lick": "Yeah it should be fine.",
         "l": "y",
         "description": "Bismuth is an interesting metal. It is very slightly radioactive (one lick should be fine). It is one of the least thermally conductive elements known."
     },
-    {"element": "84",
+    {
+        "element": "84",
         "name": "Polonium",
         "lick": "Nah. It is radioactive.",
         "l": "r",
         "description": "Polonium is a highly radioactive element. It is often found with uranium and is very rare. Licking it wouldn't be good."
     },
-    {"element": "85",
+    {
+        "element": "85",
         "name": "Astatine",
         "lick": "NO.",
         "l": "r",
         "description": "Astatine is super radioactive, lasting only about 8 hours. Licking it would be REALLY bad."
     },
-    {"element": "86",
+    {
+        "element": "86",
         "name": "Radon",
         "lick": "This is... scary.",
         "l": "r",
-        "description": "According to Wikipedia, Radon is a colorless, oderless, and radioactive gas. Because it is gas, it would be pretty hard to lick, but if somehow you did, it would end pretty badly."
+        "description": "According to Wikipedia, Radon is a colorless, odorless, and radioactive gas. Because it is gas, it would be pretty hard to lick, but if somehow you did, it would end pretty badly."
     },
-    {"element": "87",
+    {
+        "element": "87",
         "name": "Francium",
         "lick": "Don't lick this.",
         "l": "r",
-        "description": "Francium is extremly unstable. It is so unstable that it is never found in bulk quantities, because it would vaporize immediatly. Don't lick."
+        "description": "Francium is extremely unstable. It is so unstable that it is never found in bulk quantities, because it would vaporize immediately. Don't lick."
     },
-    {"element": "88",
+    {
+        "element": "88",
         "name": "Radium",
         "lick": "I can say with 100% confidence: no.",
         "l": "r",
         "description": "Ever hear of the radium girls? They were people who painted watches with radium to make them glow in the dark. To get the pointy tips on the brushes, they would lick them, then dip in radium. It didn't end very well for them. Licking this isn't very good."
     },
-    {"element": "89",
+    {
+        "element": "89",
         "name": "Actinium",
         "lick": "Unlickable.",
         "l": "r",
         "description": "Actinium is a rare radioactive metal. It reacts pretty badly with oxygen and moisture. Licking it would not be the best."
     },
-    {"element": "90",
+    {
+        "element": "90",
         "name": "Thorium",
         "lick": "You know... one lick should be fine.",
         "l": "r",
         "description": "Thorium is weakly radioactive. I would say that one lick should be fine. What is the worst that could happen...?"
     },
-    {"element": "91",
+    {
+        "element": "91",
         "name": "Protactinium",
         "lick": "Radioactive AND reacts with oxygen? Yeah, don't lick it.",
         "l": "r",
-        "description": "Protactinium is radioactive, but above that it reacts with oxygen and water, you know what is in the air? Oxygen. You know what is on your tounge? Water. Don't lick."
+        "description": "Protactinium is radioactive, but above that it reacts with oxygen and water, you know what is in the air? Oxygen. You know what is on your tongue? Water. Don't lick."
     },
-    {"element": "92",
+    {
+        "element": "92",
         "name": "Uranium",
         "lick": "NO. NO NO NO.",
         "l": "r",
         "description": "Uranium is used in NUCLEAR WEAPONS. It is dangerous. It is bad. It also can't be licked."
     },
-    {"element": "93",
+    {
+        "element": "93",
         "name": "Neptunium",
         "lick": "Please don't.",
         "l": "r",
         "description": "Neptunium isn't your friendly neighborhood element. It is very dangerous and of course, it is radioactive. Don't lick it."
     },
-    {"element": "94",
+    {
+        "element": "94",
         "name": "Plutonium",
         "lick": "They put this in bombs",
         "l": "r",
-        "description": "Plutonium is poisionus, radioactive, and can build up in bones. It is also used in nuclear bombs so, maybe it is best NOT to lick it today."
+        "description": "Plutonium is poisonous, radioactive, and can build up in bones. It is also used in nuclear bombs so, maybe it is best NOT to lick it today."
     },
-    {"element": "95",
+    {
+        "element": "95",
         "name": "Americium",
         "lick": "It's radioactive...",
         "l": "r",
         "description": "Americium is radioactive, so maybe it is best not to lick it."
     },
-    {"element": "96",
+    {
+        "element": "96",
         "name": "Curium",
-        "lick": "It's like a sibiling of Uranium",
+        "lick": "It's like a sibling of Uranium",
         "l": "r",
         "description": "Curium is made in nuclear reactors. It is very rare, but quite radioactive. I wouldn't lick it."
     },
-    {"element": "97",
+    {
+        "element": "97",
         "name": "Berkelium",
         "lick": "Don't lick it. Also, it is super rare.",
         "l": "r",
         "description": "Berkelium, named after Berkley, California, is only really made in nuclear reactors. It took researchers 250 days to make a 22-milligram batch in 2009. It is radioactive, so I wouldn't lick it. "
     },
-    {"element": "98",
+    {
+        "element": "98",
         "name": "Californium",
         "lick": "just don't. No.",
         "l": "r",
-        "description": "I wonder what this is named after! Californium is super rare, doens't form naturally, and is radioactive. Don't LICK it."
+        "description": "I wonder what this is named after! Californium is super rare, doesn't form naturally, and is radioactive. Don't LICK it."
     },
-    {"element": "99",
+    {
+        "element": "99",
         "name": "Einsteinium",
-        "lick": "WHOA. This is super radioavice.",
+        "lick": "WHOA. This is super radioactive.",
         "l": "r",
-        "description": "Einsteinium is very, very radioactive. If you pull up the wikipedia page, the main picture has a vile glowing because of how radioactive it is. Licking it would be bad, but maybe it would make your tounge glow!"
+        "description": "Einsteinium is very, very radioactive. If you pull up the wikipedia page, the main picture has a vile glowing because of how radioactive it is. Licking it would be bad, but maybe it would make your tongue glow!"
     },
-    {"element": "100",
+    {
+        "element": "100",
         "name": "Fermium",
         "lick": "No one knows...",
         "l": "r",
         "description": "Fermium has never been made in a pure metal. It was discovered in the fallout of the Mike Ivy nuclear test. So because no one has ever made it in the pure form, so no one knows if you can lick it. However, considering it is radioactive, I would ASSUME it isn't okay to lick."
     },
-    {"element": "101",
+    {
+        "element": "101",
         "name": "Mendelevium",
         "lick": "Good luck trying to.",
         "l": "r",
         "description": "Mendelevium can't be seen by the naked eye, so you would have some trouble trying to lick it. If you did manage to lick it, it's radioactive."
     },
-    {"element": "102",
+    {
+        "element": "102",
         "name": "Nobelium",
         "lick": "Nope...",
         "l": "r",
         "description": "Named after the man who made dynamite, this is radioactive and shouldn't be licked."
     },
-    {"element": "103",
+    {
+        "element": "103",
         "name": "Lawrencium",
         "lick": "Shouldn't lick it.",
         "l": "r",
         "description": "Lawrencium is named after the man who made the cyclotron, which has been used to discover many elements. This is radioactive, so licking it isn't advised."
     },
-    {"element": "104",
+    {
+        "element": "104",
         "name": "Rutherfordium",
         "lick": "What a great name for an element. It can't be licked.",
         "l": "r",
         "description": "Rutherfordium is a great name for an element. It is radioactive and can't be licked."
     },
-    {"element": "105",
+    {
+        "element": "105",
         "name": "Dubnium",
         "lick": "Nope. Don't.",
         "l": "r",
         "description": "Dubnium is super radioactive, only lasting 16 hours. Licking it wouldn't end well. It would probably feel funny."
     },
-    {"element": "107",
+    {
+        "element": "107",
         "name": "Seaborgium",
         "lick": "Can I talk to you for a minute?",
         "l": "r",
         "description": "It can't be licked. Can I just say, thank you for being here today. This is a fun little website that I have dedicated many hours to. The fact that you are reading this means that you are looking into even the small elements, like Seaborgium. Thank you. (Miles K, 11/21/2026)"
     },
-    {"element": "108",
+    {
+        "element": "108",
         "name": "Bohrium",
         "lick": "This thing doesn't last for 3 minutes",
         "l": "r",
         "description": "Bohrium is super radioactive, with a half-life of less than 3 minutes. Licking it wouldn't be good."
     },
-    {"element": "109",
+    {
+        "element": "109",
         "name": "Meitnerium",
         "lick": "We don't know... yet.",
         "l": "u",
         "description": "These final few elements have unknown properties. So I guess we don't know? But, it is radioactive, so it probably wouldn't end well."
     },
-    {"element": "110",
+    {
+        "element": "110",
         "name": "Darmstadtium",
         "lick": "It's radioactive. What's new?",
         "l": "u",
         "description": "The properties of this element is unknown, but it is radioactive, so maybe best not to lick."
     },
-    {"element": "111",
+    {
+        "element": "111",
         "name": "Roentgenium",
         "lick": "It's radioactive. Don't lick it.",
         "l": "u",
         "description": "While the properties are unknown, this is radioactive. It has no practical use, doesn't last for very long, and is just... boring?"
     },
-    {"element": "112",
+    {
+        "element": "112",
         "name": "Copernicium",
         "lick": "It is radioactive.",
         "l": "u",
         "description": "We don't known the properties of this element, but I would assume because it is radioactive you shouldn't lick it."
     },
-    {"element": "113",
+    {
+        "element": "113",
         "name": "Nihornium",
         "lick": "Please don't lick this.",
         "l": "u",
         "description": "While the properties of this element are unknown, it is very radioactive, so I wouldn't lick it."
     },
-    {"element": "114",
+    {
+        "element": "114",
         "name": "Flerovium",
         "lick": "Just... don't.",
         "l": "u",
         "description": "This is one of the elements whose properties are unknown. We know it is radioactive, so I wouldn't lick it."
     },
-    {"element": "115",
+    {
+        "element": "115",
         "name": "Moscovium",
         "lick": "How about you don't.",
         "l": "u",
         "description": "The properties of this element are unknown. It is radioactive though, so I wouldn't."
     },
-    {"element": "116",
+    {
+        "element": "116",
         "name": "Livermorium",
         "lick": "Don't lick this.",
         "l": "u",
         "description": "This element has unknown properties. It also is super radioactive. Don't lick."
     },
-    {"element": "117",
+    {
+        "element": "117",
         "name": "Tennessine",
         "lick": "NOT to be confused with Tennessee",
         "l": "u",
         "description": "This element is unknown, so I wouldn't lick it."
     },
-    {"element": "118",
+    {
+        "element": "118",
         "name": "Oganesson",
         "lick": "Don't lick it! It is super radioactive!",
         "l": "u",
