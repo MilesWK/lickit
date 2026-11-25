@@ -4,6 +4,7 @@
 // 1 = Element
 // 2 = Little Gap
 
+const periodic_table = document.getElementById("periodic-table")
 
 async function get_elements() {
     const response = await fetch("./lickit.json");
@@ -32,6 +33,15 @@ async function get_elements() {
                 console.log(element)
                 var element_div = document.createElement("div")
                 element_div.classList.add("element")
+                if (element.l === "y") {
+                    element_div.classList.add("yes-lick")
+                } else if (element.l === "n") {
+                    element_div.classList.add("no-lick")
+                } else if (element.l === "d") {
+                    element_div.classList.add("death-lick")
+                } else if (element.l === "r") {
+                    element_div.classList.add("radioactive-lick")
+                } 
                 var element_row = document.createElement("div")
                 element_row.classList.add("element-row")
                 var elementNumber = document.createElement("p")
@@ -67,7 +77,7 @@ async function get_elements() {
             }
         });
         rowNum++
-        document.body.append(rowDiv)
+        periodic_table.append(rowDiv)
     });
 }
 

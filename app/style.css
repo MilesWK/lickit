@@ -1,30 +1,34 @@
-.element {
+.element, .little-space, .big-space {
     width: 80px;
     height: 80px;
-    border: 2px red solid; /* For Debug */
     font-family: sans-serif;
     text-align: center;
     max-width: 80px;
     min-width: 80px;
+    margin: 2px;
+    border: 2px black
+
+}
+
+#periodic-table {
+    margin: 10px;
+    padding: 10px;
 }
 
 .element-row {
     justify-content: space-between;
     align-items: center;
     display: flex;
-    border: 2px blue solid; /* For Debug */
     height: 14px;
 }
 
 .atomic-symbol {
     text-align: center;
     font-size: 30px;
-    border: 2px rgb(255, 179, 0) solid; /* For Debug */
 }
 
 .atomic-name {
     text-align: center;
-    border: 2px greenyellow solid; /* For Debug */
 }
 
 .element p {
@@ -40,7 +44,7 @@
     height: 80px;
     max-width: 80px;
     min-width: 80px;
-        border: 2px white solid;
+    border: 2px white solid;
 
 }
 
@@ -48,5 +52,27 @@
     max-width: 20px;
     min-width: 20px;
     border: 2px white solid;
+}
+
+.yes-lick {
+    background-color: lightgreen;
+    border: 2px green solid;
+}
+
+.no-lick {
+    background-color: red;
+    border: 2px darkred solid;
+
+}
+
+.death-lick {
+    background-color: darkgray;
+    border: 2px black solid;
+
+}
+
+.radioactive-lick {
+    background-color: yellow;
+    border: 2px orange solid;
 
 }
