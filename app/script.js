@@ -6,6 +6,10 @@
 
 const periodic_table = document.getElementById("periodic-table")
 
+function add_title(description) {
+    alert(description)
+}
+
 async function get_elements() {
     const response = await fetch("./lickit.json");
     const result = await response.json();
@@ -62,7 +66,9 @@ async function get_elements() {
                 element_div.appendChild(element_row)
                 element_div.appendChild(element_symbol)
                 element_div.appendChild(element_name)
-
+                element_div.addEventListener('click', () => {
+                    add_title(element)
+                })
                 rowDiv.appendChild(element_div)
 
                 eleNum++
