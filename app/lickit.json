@@ -1,12 +1,5 @@
 [
     {
-        "element": "",
-        "name": "",
-        "lick": "",
-        "l": "",
-        "description": ""
-    },
-    {
         "element": "1",
         "name": "Hydrogen",
         "lick": "Yes, ish",
@@ -527,6 +520,13 @@
     },
     {
         "element": "75",
+        "name": "Rhenium",
+        "lick": "Totally fine.",
+        "l": "y",
+        "description": "Rhenium is totally fine to lick. It is a rare metal, so getting it will be hard, but not impossible..."
+    },
+    {
+        "element": "76",
         "name": "Osmium",
         "lick": "Go ahead. It is fine.",
         "l": "y",
