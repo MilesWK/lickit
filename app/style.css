@@ -4,6 +4,8 @@
     border: 2px red solid; /* For Debug */
     font-family: sans-serif;
     text-align: center;
+    max-width: 80px;
+    min-width: 80px;
 }
 
 .element-row {
@@ -27,4 +29,24 @@
 
 .element p {
     margin: 0px;
+}
+
+.row {
+    display: flex;
+}
+
+.big-space {
+    width: 80px;
+    height: 80px;
+    max-width: 80px;
+    min-width: 80px;
+        border: 2px white solid;
+
+}
+
+.little-space {
+    max-width: 20px;
+    min-width: 20px;
+    border: 2px white solid;
+
 }

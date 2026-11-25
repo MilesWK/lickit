@@ -736,18 +736,25 @@
         "description": "Dubnium is super radioactive, only lasting 16 hours. Licking it wouldn't end well. It would probably feel funny."
     },
     {
-        "element": "107",
+        "element": "106",
         "name": "Seaborgium",
         "lick": "Can I talk to you for a minute?",
         "l": "r",
         "description": "It can't be licked. Can I just say, thank you for being here today. This is a fun little website that I have dedicated many hours to. The fact that you are reading this means that you are looking into even the small elements, like Seaborgium. Thank you. (Miles K, 11/21/2026)"
     },
     {
-        "element": "108",
+        "element": "107",
         "name": "Bohrium",
         "lick": "This thing doesn't last for 3 minutes",
         "l": "r",
         "description": "Bohrium is super radioactive, with a half-life of less than 3 minutes. Licking it wouldn't be good."
+    },
+    {
+        "element": "108",
+        "name": "Hassium",
+        "lick": "Mmm... it only lasts for 10 seconds",
+        "l": "r",
+        "description": "Hassium, like all the other elements around it, doesn't last very long. This means that it is super radioactive. If you licked it, you would feel bad."
     },
     {
         "element": "109",
