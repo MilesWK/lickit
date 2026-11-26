@@ -8,6 +8,11 @@
     --box-height: 85px;
 }
 
+body, html {
+    margin: 0;
+
+}
+
 .element, .little-space, .big-space {
     font-family: sans-serif;
     text-align: center;
@@ -92,14 +97,34 @@ font-size: 13px;}
 
 }
 
-.top-bar {
-      font-family: "Google Sans Flex", sans-serif;
+.spacer {
+    height: 100px;
+}
+
+.nav {
+    overflow: hidden;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(77, 77, 255);
+    width: 100%;
+
+}
+
+.inner-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0px 40px;
+    font-family: "Google Sans Flex", sans-serif;
   font-variation-settings:
-  "ROND" 100;
-  text-align: center;
-  font-size: 20px;
-  position: fixed;
-  height: 100px;
-  background-color: white;
-  z-index: 999;
+    "ROND" 100;
+}
+
+.inner-nav a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
 }
